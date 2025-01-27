@@ -12,3 +12,4 @@ C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker\obj\Debug\net9.0\refint\H
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker\obj\Debug\net9.0\Hello Docker.pdb
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker\obj\Debug\net9.0\Hello Docker.genruntimeconfig.cache
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker\obj\Debug\net9.0\ref\Hello Docker.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker\obj\Debug\net9.0\Hello Docker.sourcelink.json
